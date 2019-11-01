@@ -21,8 +21,8 @@ grid minor
 % setting titlegit push
 title('Rankine Theory')
 % setting label of x and y axis
-xlabel('?1/?Y')
-ylabel('?2/?Y')
+xlabel('σ1')
+ylabel('σ2')
 
 
 
